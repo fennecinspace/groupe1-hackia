@@ -1,1 +1,11 @@
+This folder contains: 
+-- A training .ipynb file.
+
+-- The weights of the model using a combination of all datasets, these being: 
+-> a synthetically created dataset (about 500 pictures)
+-> a scraped dataset from google (over 1000 pictures)
+-> a part of the roboflow publically available dataset on guns (about 300)
+
+--A jpeg of predictions on validation data obtained using wandb.
+
 
